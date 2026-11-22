@@ -6,4 +6,7 @@ THIS GAME FEATURES:
 - realistic recoil system implemented with procedural animations.
 - double view aiming system
 - realistic scope view made with render texture to create a picture in picture and tunneled view effect.
+
+
+feel free to fork the project and implement your changes on it. just take note that the current code is messy and the overall architecture is bad due to lack of experience and treating the whole thing as a learning project not a design one.
   
